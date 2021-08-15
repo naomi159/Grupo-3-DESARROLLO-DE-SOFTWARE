@@ -1,0 +1,13 @@
+D:\UNSAAC\UNSAAC 2021-I\Desarrollo de Software I\Primera Unidad\CRUD\Formularios\bin\Debug\Formularios.exe.config
+D:\UNSAAC\UNSAAC 2021-I\Desarrollo de Software I\Primera Unidad\CRUD\Formularios\bin\Debug\Formularios.exe
+D:\UNSAAC\UNSAAC 2021-I\Desarrollo de Software I\Primera Unidad\CRUD\Formularios\bin\Debug\Formularios.pdb
+D:\UNSAAC\UNSAAC 2021-I\Desarrollo de Software I\Primera Unidad\CRUD\Formularios\obj\Debug\Formularios.csproj.AssemblyReference.cache
+D:\UNSAAC\UNSAAC 2021-I\Desarrollo de Software I\Primera Unidad\CRUD\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+D:\UNSAAC\UNSAAC 2021-I\Desarrollo de Software I\Primera Unidad\CRUD\Formularios\obj\Debug\Formularios.csproj.GenerateResource.cache
+D:\UNSAAC\UNSAAC 2021-I\Desarrollo de Software I\Primera Unidad\CRUD\Formularios\obj\Debug\Formularios.csproj.CoreCompileInputs.cache
+D:\UNSAAC\UNSAAC 2021-I\Desarrollo de Software I\Primera Unidad\CRUD\Formularios\obj\Debug\Formularios.exe
+D:\UNSAAC\UNSAAC 2021-I\Desarrollo de Software I\Primera Unidad\CRUD\Formularios\obj\Debug\Formularios.pdb
+D:\UNSAAC\UNSAAC 2021-I\Desarrollo de Software I\Primera Unidad\CRUD\Formularios\obj\Debug\Formularios.frmTutoría.resources
+D:\UNSAAC\UNSAAC 2021-I\Desarrollo de Software I\Primera Unidad\CRUD\Formularios\obj\Debug\Formularios.StdInfo.resources
+D:\UNSAAC\UNSAAC 2021-I\Desarrollo de Software I\Primera Unidad\CRUD\Formularios\obj\Debug\Formularios.TutoInfo.resources
+D:\UNSAAC\UNSAAC 2021-I\Desarrollo de Software I\Primera Unidad\CRUD\Formularios\obj\Debug\Formularios.frmListaTutorias.resources
