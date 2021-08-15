@@ -1,0 +1,30 @@
+C:\Users\Usuario\source\repos\CORRECCION\LibClases\bin\Debug\LibClases.dll
+C:\Users\Usuario\source\repos\CORRECCION\LibClases\bin\Debug\LibClases.pdb
+C:\Users\Usuario\source\repos\CORRECCION\LibClases\obj\Debug\LibClases.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\CORRECCION\LibClases\obj\Debug\LibClases.dll
+C:\Users\Usuario\source\repos\CORRECCION\LibClases\obj\Debug\LibClases.pdb
+C:\Users\Usuario\source\repos\CORRECCION\LibClases\obj\Debug\LibClases.csprojAssemblyReference.cache
+C:\Users\Nitro\source\repos\CRUD_project\Proyecto\LibClases\bin\Debug\LibClases.dll
+C:\Users\Nitro\source\repos\CRUD_project\Proyecto\LibClases\bin\Debug\LibClases.pdb
+C:\Users\Nitro\source\repos\CRUD_project\Proyecto\LibClases\obj\Debug\LibClases.csprojAssemblyReference.cache
+C:\Users\Nitro\source\repos\CRUD_project\Proyecto\LibClases\obj\Debug\LibClases.csproj.CoreCompileInputs.cache
+C:\Users\Nitro\source\repos\CRUD_project\Proyecto\LibClases\obj\Debug\LibClases.dll
+C:\Users\Nitro\source\repos\CRUD_project\Proyecto\LibClases\obj\Debug\LibClases.pdb
+E:\Visual projects\Desarrollo de software\Unit 1\CRUD_project\Proyecto\LibClases\bin\Debug\LibClases.dll
+E:\Visual projects\Desarrollo de software\Unit 1\CRUD_project\Proyecto\LibClases\bin\Debug\LibClases.pdb
+E:\Visual projects\Desarrollo de software\Unit 1\CRUD_project\Proyecto\LibClases\obj\Debug\LibClases.csproj.AssemblyReference.cache
+E:\Visual projects\Desarrollo de software\Unit 1\CRUD_project\Proyecto\LibClases\obj\Debug\LibClases.csproj.CoreCompileInputs.cache
+E:\Visual projects\Desarrollo de software\Unit 1\CRUD_project\Proyecto\LibClases\obj\Debug\LibClases.dll
+E:\Visual projects\Desarrollo de software\Unit 1\CRUD_project\Proyecto\LibClases\obj\Debug\LibClases.pdb
+C:\Users\Usuario-PC\Source\Repos\AmaruVL\CRUD_project\Proyecto\LibClases\bin\Debug\LibClases.dll
+C:\Users\Usuario-PC\Source\Repos\AmaruVL\CRUD_project\Proyecto\LibClases\bin\Debug\LibClases.pdb
+C:\Users\Usuario-PC\Source\Repos\AmaruVL\CRUD_project\Proyecto\LibClases\obj\Debug\LibClases.csproj.AssemblyReference.cache
+C:\Users\Usuario-PC\Source\Repos\AmaruVL\CRUD_project\Proyecto\LibClases\obj\Debug\LibClases.csproj.CoreCompileInputs.cache
+C:\Users\Usuario-PC\Source\Repos\AmaruVL\CRUD_project\Proyecto\LibClases\obj\Debug\LibClases.dll
+C:\Users\Usuario-PC\Source\Repos\AmaruVL\CRUD_project\Proyecto\LibClases\obj\Debug\LibClases.pdb
+C:\Users\Usuario\Desktop\Metodologia Proyecto\Proyecto\LibClases\bin\Debug\LibClases.dll
+C:\Users\Usuario\Desktop\Metodologia Proyecto\Proyecto\LibClases\bin\Debug\LibClases.pdb
+C:\Users\Usuario\Desktop\Metodologia Proyecto\Proyecto\LibClases\obj\Debug\LibClases.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Metodologia Proyecto\Proyecto\LibClases\obj\Debug\LibClases.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Metodologia Proyecto\Proyecto\LibClases\obj\Debug\LibClases.dll
+C:\Users\Usuario\Desktop\Metodologia Proyecto\Proyecto\LibClases\obj\Debug\LibClases.pdb
