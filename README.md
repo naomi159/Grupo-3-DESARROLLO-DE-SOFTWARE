@@ -12,6 +12,10 @@
 ## Trabajo
 ### REALIZAR UN CRUD PARA EL SISTEMA DE TUTORIAS UNSAAC
 **DISTRIBUCION DE TUTORIAS UNSAAC 2020-2** [DistribucionTutorias2020-2.pdf](https://github.com/MigVC/PROYECTO/files/6878187/DistribucionTutorias2020-2.pdf)
+### IMPLEMENMTAR PRUEBAS UNITARIAS, PRUEBAS UNITARIAS AUTOMATIZADAS
+### SUBIR LA BASE DE DATOS A LA NUBE
+**PASOS PARA CREAR LA BASE DE DATOS EN LA NUBE MICROSOFT AZURE Y SUBIR LA BASE DE DATOS A LA NUBE**[tarea azure.pdf](https://github.com/naomi159/Grupo-3-DESARROLLO-DE-SOFTWARE/files/6994904/tarea.azure.pdf)
+
 
 ## Colaboradores ![descarga](https://user-images.githubusercontent.com/72511623/126371917-24df0242-6218-4cd8-8da8-3dd229f82203.png)
 
