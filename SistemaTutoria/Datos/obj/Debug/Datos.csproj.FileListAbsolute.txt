@@ -1,6 +1,0 @@
-C:\Users\Usuario\Downloads\PROYECTO-main\SistemaTutoria\Datos\bin\Debug\Datos.dll
-C:\Users\Usuario\Downloads\PROYECTO-main\SistemaTutoria\Datos\bin\Debug\Datos.pdb
-C:\Users\Usuario\Downloads\PROYECTO-main\SistemaTutoria\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
-C:\Users\Usuario\Downloads\PROYECTO-main\SistemaTutoria\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
-C:\Users\Usuario\Downloads\PROYECTO-main\SistemaTutoria\Datos\obj\Debug\Datos.dll
-C:\Users\Usuario\Downloads\PROYECTO-main\SistemaTutoria\Datos\obj\Debug\Datos.pdb
